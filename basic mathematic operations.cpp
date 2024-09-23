@@ -27,3 +27,12 @@ int main(){
   return 0;
   
 }
+
+
+Output:
+
+Please enter two integers:
+Sum=6
+Difference =2
+Multiplication =8
+division =2
