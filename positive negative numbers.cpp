@@ -18,3 +18,8 @@ int main(){
   }
   return 0;
 }
+
+STDIN: 5
+
+OUTPUT:
+The number 5 is positive.
