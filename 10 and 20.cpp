@@ -17,3 +17,8 @@ int main()
     
     return 0;
 }
+
+STDIN: 54
+
+OUTPUT:
+the number 54 is not between 10 & 20.
