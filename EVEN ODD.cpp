@@ -18,3 +18,9 @@ int main(){
   
   return 0;
 }
+
+
+STDIN: 5
+
+OUTPUT:
+The Given number is ODD
