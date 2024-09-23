@@ -17,3 +17,8 @@ int main()
   
   return 0;
 }
+
+
+Output:
+
+The number is greater than 5.
