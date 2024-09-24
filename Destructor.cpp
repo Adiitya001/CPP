@@ -17,3 +17,9 @@ main()
   return 0;
   
 }
+
+Output:
+
+
+ Constructor executed
+Destructor executed
