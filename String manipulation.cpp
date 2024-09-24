@@ -47,3 +47,14 @@ int main()
 
   
 }
+
+OUTPUT:
+
+Concatenation:Hello, World!
+Substring:World
+Find: 'World'found at position7
+replace:Hello, C++!
+Insert:Hellobeautiful, World!
+Erase:Hello!
+To Uppercase:HELLO, WORLD!
+To Lowercase:hello, world!
