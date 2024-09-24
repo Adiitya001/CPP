@@ -28,3 +28,9 @@ int main(){
   
   return 0;
 }
+
+Output:
+
+Sum 1 = 11
+Sum 2 = 12.1
+Sum 3 = 18
