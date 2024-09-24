@@ -43,3 +43,10 @@ int main(){
 
   
 }
+
+
+
+Output:
+
+Base ID: 7
+Child ID: 91
