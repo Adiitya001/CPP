@@ -71,3 +71,15 @@ int main(){
   return 0;
   
 }
+
+Output:
+
+Account Number: 123456789
+Balance: $1000
+After deposit: 
+Account Number: 123456789
+Balance: $1500
+Insufficient funds or invalid amount.
+After withdrawal: 
+Account Number: 123456789
+Balance: $1500
