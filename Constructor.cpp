@@ -49,3 +49,12 @@ int main(){
   
   return 0;
 }
+
+Output:
+
+Rectangle 1 - Length: 0, Breadth: 0
+Area: 0
+
+Rectangle 2 - Length: 10, Breadth: 5
+Area: 50
+  
